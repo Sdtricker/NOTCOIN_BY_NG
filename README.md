@@ -88,7 +88,7 @@ Join our Telegram channels,
 ## 📬 Contact
 If you have any questions, feedback, or just want to say hi, you can reach out to me:
 
-- Telegram : [@NGTT777GG](https://t.me/MalithRukshan)
+- Telegram : [@NGTT777GG](https://t.me/NGYT777GG)
 - Email : [ngyt](mailto:ngllo@malith.dev)
 
 🧑‍💻 Built with 💖 by [NGYT777 </> ](https://t.me/NGYT777GG)
