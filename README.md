@@ -38,13 +38,13 @@
 1. **Clone the repository**
 
     ```bash
-    git clone https://github.com/Malith-Rukshan/NotCoin-Mini-App-Clone.git
+    git clone https://github.com/Sdtricker/NOTCOIN_BY_NG
     ```
 
 2. **Install dependencies**
 
     ```bash
-    cd NotCoin-Mini-App-Clone
+    cd NOTCOIN_BY_NG
     npm install
     # or
     yarn install
@@ -62,10 +62,10 @@
 
 ## 🚀 Deployment
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Malith-Rukshan/NotCoin-Mini-App-Clone)
+[![Deploy with Vercel](https://vercel.com/button)](https://github.com/Sdtricker/NOTCOIN_BY_NG)
 [![Deploy with heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Malith-Rukshan/NotCoin-Mini-App-Clone)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Sdtricker/NOTCOIN_BY_NG)
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
 </br>
 
